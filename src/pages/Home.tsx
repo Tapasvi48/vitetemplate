@@ -1,4 +1,5 @@
 import type { FunctionComponent } from "../common/types";
+import zod from "zod";
 
 export const Home = (): FunctionComponent => {
 	return (
